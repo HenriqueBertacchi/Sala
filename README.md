@@ -45,4 +45,4 @@ ViewModels   → Dados específicos das telas
 Data         → Contexto do banco
 
 # 🎓 Orientação
-- **Professor:** Andre Muniz (@agdelira)
+- **Professor:** [Andre Muniz](https://github.com)
